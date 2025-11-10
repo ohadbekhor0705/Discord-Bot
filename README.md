@@ -27,9 +27,7 @@ PREFIX=!
 ## Usage
 Start the bot:
 ```
-npm start
-# or
-node index.js
+python main.py
 ```
 
 ## Contributing
