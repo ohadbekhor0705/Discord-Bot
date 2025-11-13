@@ -8,7 +8,6 @@ A simple Discord bot example for handling commands and events.
 - Minimal, extensible codebase
 
 ## Requirements
-- Node.js 16+ and npm
 - A Discord bot token
 
 ## Installation
