@@ -11,10 +11,9 @@ A simple Discord bot example for handling commands and events.
 - A Discord bot token
 
 ## Installation
-1. Clone the repo:
+Clone the repo:
     git clone <repo-url>
-2. Install dependencies:
-    npm install
+install
 
 ## Configuration
 Create a .env file in the project root:
